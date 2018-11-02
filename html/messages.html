@@ -7,15 +7,25 @@
 
     <body>
         <div id="back">
-            <h2> < </h2>
+            <button onclick="back()"><</button>
         </div>
 
+        <script>
+                function back() {
+                    window.history.back();
+                }
+                </script>
+
         <div id="myself">
+            <a href="myProfile.html">
             <h2> Roy Zhang </h2>
+            </a>
         </div>
 
         <div id="add">
+            <a href="newMsg.html">
             <h2> + </h2>
+            </a>
         </div>
     </body>
 </html>

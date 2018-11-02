@@ -25,31 +25,34 @@ body{
     border-radius: 50%;
     width: 25px;
     height: 25px;
-    position: absolute;
+    position: fixed;
     top: 3px;
     left: 3px;
 }
 
 #messages img{
-    position:absolute;
+    position: fixed;
     top: 3px;
     right: 3px;
 }
 
 #logs img{
-    position: absolute;
+    position: fixed;
     top: 3px;
     right: 30px;
 }
 
 .search {
-    text-align: center;
-    padding-top: 3px
-    margin-right: 20px;
+    position: fixed;
+    padding-top: 5px
+
 }
 
 .search input{
     width: 250px;
+    margin-left: 68px;
+    text-align: center; 
+    
 }
 
 #post {
