@@ -66,7 +66,7 @@ body{
     height: 50px;
 }
 
-#pguo img[src="../images/pguo.jpg"]{
+#pguo img[src="images/pguo.jpg"]{
     border-radius: 50%;
     width: 25px;
     height: 25px;
@@ -74,45 +74,45 @@ body{
     margin-top: 20px;
 }
 
-#ed img[src="../images/edwin.jpg"]{
+#ed img[src="images/edwin.jpg"]{
     border-radius: 50%;
     width: 25px;
     height: 25px;
     margin-left: 10px;
 }
 
-#pguo img[src="../images/heart.png"]{
+#pguo img[src="images/heart.png"]{
     width: 25px;
     height: 25px;
     margin-left: 80px;
 }
 
-#pguo img[src="../images/comment.png"]{
+#pguo img[src="images/comment.png"]{
     width: 22px;
     height: 22px;
     margin-left: 160px;
 }
-#ed img[src="../images/heart.png"]{
+#ed img[src="images/heart.png"]{
     padding-top: 15px;
     width: 25px;
     height: 25px;
     margin-left: 80px;
 }
 
-#ed img[src="../images/comment.png"]{
+#ed img[src="images/comment.png"]{
     padding-top: 15px;
     width: 22px;
     height: 22px;
     margin-left: 160px;
 }
-#arnold img[src="../images/heart.png"]{
+#arnold img[src="images/heart.png"]{
     padding-top: 15px;
     width: 25px;
     height: 25px;
     margin-left: 80px;
 }
 
-#arnold img[src="../images/comment.png"]{
+#arnold img[src="images/comment.png"]{
     padding-top: 15px;
     width: 25px;
     height: 25px;
