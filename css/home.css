@@ -102,6 +102,19 @@ body{
     height: 22px;
     margin-left: 160px;
 }
+#arnold img[src="../images/heart.png"]{
+    padding-top: 15px;
+    width: 25px;
+    height: 25px;
+    margin-left: 80px;
+}
+
+#arnold img[src="../images/comment.png"]{
+    padding-top: 15px;
+    width: 25px;
+    height: 25px;
+    margin-left: 160px;
+}
 #pguo h5{
     position: relative;
     display: inline;
@@ -116,6 +129,18 @@ body{
     top: -5px;
 }
 
+#arnold h5{
+    position: relative;
+    display: inline;
+    padding-left: 10px;
+    top: -5px;
+}
+
+#arnold p{
+    font-size: 15px;
+    padding-left: 15px;
+}
+
 #pguo p{
     font-size: 15px;
     padding-left: 15px;
@@ -123,10 +148,23 @@ body{
 
 #ed p{
     font-size: 15px;
-    padding-left: 25px;
+    padding-left: 15px;
 }
 
 #ed video{
     display: block;
     margin: 0 auto;
+}
+
+.arn1{
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    margin-left: 10px; 
+}
+
+.arn2{
+    width: 300px;
+    height: 200px;
+    padding-left: 15px;
 }
